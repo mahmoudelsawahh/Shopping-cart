@@ -1,0 +1,8 @@
+p {
+  color: red;
+  background-color: blue;
+  font-size: 15px;
+  margin: 20px;
+  padding: 55px;
+  min-height: 10px;
+}
